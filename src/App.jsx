@@ -443,7 +443,7 @@ return (
             <div>
               <strong>Church Contact</strong>
               <p>Pastor Isaiah</p>
-              <a href="tel:0711499220">0711 499 220</a>
+              <a href="tel:0700000000">0700 000 000</a>
             </div>
           </div>
 
